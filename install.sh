@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-cd TshAkEapi
+cd dabuol
 red() {
   printf '\e[1;31m%s\n\e[0;39;49m' "$@"
 }
@@ -107,7 +107,7 @@ wget http://luarocks.org/releases/luarocks-2.2.2.tar.gz
  cd ..
 }
 function MOODY_TshAkE() {
- cd TshAkEapi
+ cd dabuol
  rm -rf "luarocks-2.2.2"
  wget "https://valtman.name/files/telegram-cli-1222"
  mv telegram-cli-1222 tg
