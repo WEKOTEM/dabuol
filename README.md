@@ -4,17 +4,17 @@
 
  ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉
  
-🔽┇لتنصيب سورس تشاكي ع التوكن 
+🔽┇لتنصيب سورس دعبول ع التوكن 
 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 
 1️⃣┇افتح ترمنال وحط
 
-git clone https://github.com/moodlIMyIl/TshAkEapi
+git clone https://github.com/WEKOTEM/dabuol
 
 2️⃣┇انتر وراه حط،
 
-cd TshAkEapi 
+cd dabuol 
 
 3️⃣┇وانتر وراه حط
 
@@ -26,7 +26,7 @@ cd TshAkEapi
 
 ⤵️┇او نصب بكود واحد،
 
-git clone https://github.com/moodlIMyIl/TshAkEapi && cd TshAkEapi && chmod +x install.sh && ./install.sh
+git clone https://github.com/WEKOTEM/dabuol && cd dabuol && chmod +x install.sh && ./install.sh
 
 📥┇وراح يطلب منك اثناء التنصيب تحط y او n دائما اختار y، 
 
